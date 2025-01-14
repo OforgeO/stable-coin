@@ -1,3 +1,6 @@
+# hello, oogabooga
+
+
 # Stablecoin V2
 
 This is the version 2 implementation of the stablecoin. It builds on top of [liquity](https://www.liquity.org/) and introduces a new govrenance token `NULLZ` with incentives to grow liquidity.
